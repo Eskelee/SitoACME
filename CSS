@@ -1,0 +1,250 @@
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT925cA1CjtVMtMY64qCVI5q0f3j-EfAPZ-6kOzWr73bqVUx4cBA5nFP9Inmw8k4K17a-U&usqp=CAU');
+  background-attachment: fixed;
+  background-size: cover;
+  background-size: 100%;  
+  background-repeat: no-repeat;
+  margin: 0px;
+  background-position: center;
+}
+
+#barranavigazione {
+    background-color: rgba(255, 255, 102, 0.3);
+    padding: 1% 0% 0.5% 5%;
+    width: 100%;
+    color: white;
+    float: left;
+    position: fixed;
+    height: auto;
+}
+
+.lingue {
+    float: left;
+    width: 50px;
+    height: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  font-family: Futura; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 26.4px;
+}
+
+.titolosuperiore {
+    color: #b30000;
+    text-decoration: none;
+    font-family: Futura; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 26.4px;
+}
+
+@media screen and (max-width: 600px) {
+
+    .lingue {
+        float: none;
+        margin-bottom: 8px;
+        margin-right: 10px;
+    }
+
+    #barranavigazione {
+        text-align: center;
+        padding-left: 0%;
+    }
+}
+
+#descacme {
+    margin: 4px;
+    font-family: font-family: Futura; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 26.4px;
+}
+
+.spazio {
+    height: 90px;
+    max-width: fit-content;
+    margin: 0 auto;
+}
+
+.spazio1 {
+    height: 200px;
+    max-width: fit-content;
+    margin: 0 auto;
+
+}
+
+.opendayonline {
+    color: #ffffff;
+    font-family: Futura; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 28px;
+    font-size: larger;
+    text-align: center;
+    margin: 0 auto;
+    border: 4px;
+    padding: 5px;
+    max-width: 700px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.margine2 {
+    margin: 0;
+}
+
+#banneropenday {
+    background-color: rgba(255, 255, 102, 0.2);
+}
+
+#banner2 {
+    height: auto;
+    color: white;
+    text-align: center;
+    padding: 30px 50px;
+  font-family: Futura; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 28px;
+}
+
+.material-symbols-outlined {
+    font-size: 40px !important;
+  color: #b30000
+}
+
+#video {
+    background-color: rgba(255, 255, 102, 0.2);
+    padding: 30px;
+    color: white;
+    height: auto;
+border-radius: 4px;
+}
+
+div h5 {
+  font-family: Futura; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 28px;
+  }
+
+  p {
+  font-family: Futura; font-size: 22px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 28px;
+}
+
+#youtube {
+    width: 100%;
+    height: 315px;
+    padding: 2px;
+  border-radius: 4px
+}
+
+h5 {
+  letter-spacing: 5.5px;
+}
+
+#offertaformativa {
+    padding: 20px;
+    color: white;
+    height: auto;
+}
+
+#colori {
+    width: 100%;
+    height: 100%;
+}
+
+#frase {
+  color:rgba(255, 255, 102);
+    margin-top: 900px;
+    margin: 0 auto;
+    margin-top: 20px;
+    height: 200px;
+    text-align: center;
+    padding-top: 40px;
+    font-family: font-family: Futura; font-size: 22px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 28px;
+    font-size: 14pt;
+}
+
+.banner3 {
+    background-color: rgba(255, 255, 102, 0.2);
+    padding: 0 20px 20px 20px;
+    height: auto;
+    border: 4px;
+    margin: 0px -10px;
+    color: white;
+  border-radius: 4px
+  
+}
+
+.titolidipartimenti {
+    padding: 20px;
+    text-align: center;
+    margin: 20px 0;
+  border-radius: 4px;
+  font-family: Futura; font-size: 22px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 28px;
+}
+
+#colorevisive {
+    background-color: #54C9F3;
+}
+
+#coloreprogetto {
+    background-color: #F3A354;
+}
+
+#colorecomunicazione {
+    background-color: #BA8BF7;
+}
+
+.c1 {
+    color: #54C9F3;
+}
+
+.c2 {
+    color: #F3A354;
+}
+
+.c3 {
+    color: #BA8BF7;
+}
+
+.dipartimenti {
+    padding-top: 3%;
+    min-height: 100%;
+    text-align: center;
+    background-color: rgb(210, 210, 210, 0.7);
+  font-family: Futura; font-size: 22px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 28px;
+  border-radius: 4px;
+  
+
+}
+
+ul {
+    margin: 0 auto;
+    padding-left: 3px !important;
+    max-width: fit-content;
+    font-size: 14px;
+    
+    list-style-type: square;
+}
+
+#banner4 {
+    background-color: rgba(255, 255, 102, 0.2);
+    color: white;
+    border: 4px;
+    height: auto;
+    padding: 60px;
+  border-radius: 4px;
+}
+
+#banner5 {
+    background-color:rgba(255, 255, 102, 0.2);
+    color: white;
+    padding: 60px;
+    height: auto;
+    border: 4px;
+  border-radius: 4px;
+}
+
+.margine {
+    margin: 20px;
+}
+
+footer {
+    background-color: rgb(0, 0, 0, 0.5);
+    color: white;
+    width: 100%;
+    height: 500px;
+
+}
+
+.piepagina {
+    max-width: 350px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 13px;
+}
